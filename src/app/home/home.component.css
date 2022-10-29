@@ -1,0 +1,22 @@
+.banner{
+    background-image:url('http://wallpapercave.com/wp/YbGWmpg.jpg') ;
+background-position: center;
+background-size: cover;
+}
+.banner h1{
+    color:blanchedalmond;
+    font-size: 50px;
+    font-weight: bold;
+    padding-left: 180px;
+    padding-bottom: 700px;
+}
+.banner a{
+    margin-top: 20px;
+    padding: 14px 20px;
+    background-color: white;
+    position: absolute;
+    top:30%;
+    left:20%;
+    
+
+}
